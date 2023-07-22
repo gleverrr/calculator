@@ -1,3 +1,3 @@
 # calculator
 A calculator made in Python using the PyQt framework
-![screen](http://url/to/img.png)
+![screen](https://github.com/gleverrr/calculator/blob/main/image.PNG)
