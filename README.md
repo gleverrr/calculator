@@ -1,4 +1,11 @@
-# calculator
+# Calculator
 A calculator made in Python using the PyQt framework 
 ---
-![screen](https://github.com/gleverrr/calculator/blob/main/image.PNG)
+<img src="https://github.com/gleverrr/calculator/blob/main/image.PNG" alt="screen" witdth = "100px" height = "300px">
+
+# Quick start:
+
+```
+pip install -r requirements.txt
+run python calculator.py
+```
