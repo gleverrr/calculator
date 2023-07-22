@@ -8,5 +8,5 @@ download files ``calculator.py`` and ``requirements.txt``
 
 ```
 pip install -r requirements.txt
-run python calculator.py
+python calculator.py
 ```
